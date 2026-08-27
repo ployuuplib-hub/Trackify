@@ -1,0 +1,6 @@
+{
+  "name": "Trackify",
+  "description": "ระบบเช็คงานนักเรียน ม.1 - ม.6 ตรวจสอบสถานะการส่งงานและเวลาส่ง พร้อมระบบจัดการสำหรับแอดมิน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
